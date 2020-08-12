@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14440763178dde7ef2cfaa879faad341",
+    "revision": "5acf9a5b02e9d80cad55cdc809ef51bb",
     "url": "/terserahapasaja/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terserahapasaja/static/css/2.295124c6.chunk.css"
   },
   {
-    "revision": "78eb03ba32690d39a6c2",
+    "revision": "b9bd4400f14ce94734bb",
     "url": "/terserahapasaja/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terserahapasaja/static/js/2.18b52427.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78eb03ba32690d39a6c2",
-    "url": "/terserahapasaja/static/js/main.e56124f3.chunk.js"
+    "revision": "b9bd4400f14ce94734bb",
+    "url": "/terserahapasaja/static/js/main.264141f7.chunk.js"
   },
   {
     "revision": "cc5b4a383d4be3329add",

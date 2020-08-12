@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/terserahapasaja/precache-manifest.98631ef6227ef1add9067f29b5c0e821.js"
+  "/terserahapasaja/precache-manifest.552174f1ad76e4621a814e4367ab014c.js"
 );
 
 self.addEventListener('message', (event) => {
